@@ -18,7 +18,7 @@ Este projeto é um sistema de gerenciamento de estacionamento desenvolvido em C#
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/Robdev01/Construindo-um-Sistema-para-um-Estacionamento-com-C-
 
 
 
